@@ -1,3 +1,5 @@
+[![Stories in Ready](https://badge.waffle.io/rnelson0/puppet-modules.svg?label=ready&title=Ready)](http://waffle.io/rnelson0/puppet-modules)
+
 # puppet-modules
 Management repo for my puppet modules.
 
